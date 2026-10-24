@@ -203,5 +203,8 @@
     "connectivity": "cloud",
     "offline_support": "none",
     "privacy_url": "https://github.com/PiPhi-io/piphi-network-daikin-onecta/blob/main/docs/privacy.md"
+  },
+  "onboarding": {
+    "mode": "account"
   }
 }
